@@ -1,0 +1,2 @@
+https://blog.naver.com/PostView.nhn?blogId=compass1111&logNo=221283850507 - рабочий код и подключение pms7003
+https://github.com/MartyMacGyver/PMS7003-on-Particle/blob/master/PMS7003_datasheet.pdf
